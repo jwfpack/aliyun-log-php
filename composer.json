@@ -1,0 +1,14 @@
+{
+    "name": "jiaweifeng/aliyun-log-php",
+    "description": "阿里日志服务sdk完善",
+    "authors": [
+        {
+            "name": "jwf",
+            "email": "18519334957@163.com"
+        }
+    ],
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    },
+    "require": {}
+}
